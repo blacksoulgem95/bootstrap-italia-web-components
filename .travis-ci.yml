@@ -1,6 +1,7 @@
 language: javascript
 
-install: npm install
+script: npm install
+
 deploy:
   provider: npm
   email: $EMAIL
