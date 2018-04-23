@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-italia-web-components",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "WebComponents for italia/bootstrap-italia library",
   "main": "index.js",
   "scripts": {
