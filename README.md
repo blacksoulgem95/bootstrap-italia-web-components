@@ -5,7 +5,7 @@ italia/bootstrap-italia library in web-components
 
 Install via NPM: `npm i --save bootstrap-italia-web-components`
 
-#DONATE
+# DONATE
 To Support me for working on this repository, please consider a donation 
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FKCEN7MZ8ZTZL"><img src="https://www.paypalobjects.com/webstatic/mktg/merchant_portal/button/donate.en.png"/></a>
