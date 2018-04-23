@@ -84,7 +84,9 @@ export default class BITNavbar extends HTMLElement {
 
     toggleDrawer() {
         let html = this.innerHTML;
-        this.innerHTML = '';
+
+        if (html && html.length > 0) this.innerHTML = ''; else html = '';
+
         this.shadowRoot.innerHTML = '';
         let classes = [].concat(['btn']);
         let styles = [];
