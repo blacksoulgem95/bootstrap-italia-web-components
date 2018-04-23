@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-italia-web-components",
+  "version": "1.0.0",
+  "description": "WebComponents for italia/bootstrap-italia library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITGuy9401/bootstrap-italia-web-components.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "shadowdom",
+    "bootstrap",
+    "italia",
+    "bootstrap-italia"
+  ],
+  "author": "Arcangelo Vicedomini",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ITGuy9401/bootstrap-italia-web-components/issues"
+  },
+  "homepage": "https://github.com/ITGuy9401/bootstrap-italia-web-components#readme",
+  "dependencies": {
+    "bootstrap-italia": "^0.6.0"
+  }
+}
